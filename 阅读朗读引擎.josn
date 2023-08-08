@@ -9,7 +9,7 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "   G4100 ä¯ÀÀÆ÷ÎÂÅ¯Å®Éù",
+    "name": "   G4100 æµè§ˆå™¨æ¸©æš–å¥³å£°",
     "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4100&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=220=&vol=15&aue=6&pit=5&_res_tag_=audio\"\n}"
   },
   {
@@ -22,7 +22,7 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "  G4119 ¶ÈĞ¡Â¹ÅãÍæ",
+    "name": "  G4119 åº¦å°é¹¿é™ªç©",
     "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 5}}&per=4119&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=220&vol=15&aue=6&pit=5&_res_tag_=audio\"\n}"
   },
   {
@@ -35,7 +35,7 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "  ¡ó4119¡ï¶ÈĞ¡Â¹-ÌğÃÀ¡ï+",
+    "name": "  â—‡4119â˜…åº¦å°é¹¿-ç”œç¾â˜…+",
     "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 5}}&per=4119&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=220&vol=15&aue=6&pit=5&_res_tag_=audio\"\n}"
   },
   {
@@ -48,7 +48,7 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "  ã¶Í·ÇàÄê×ÔÓÃ°æ",
+    "name": "  æ„£å¤´é’å¹´è‡ªç”¨ç‰ˆ",
     "url": "http://tsn.baidu.com/text2audio,{\n\"method\": \"POST\",\n\"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 4) / 10 + 4}}&per=4114&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=220&vol=15&aue=6&pit=5&_res_tag_=audio\"\n}"
   },
   {
@@ -61,7 +61,7 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "0??¶ÈĞ¡ÃÀ 5",
+    "name": "0??åº¦å°ç¾ 5",
     "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 5}}&per=0&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=220&vol=15&aue=6&pit=5&_res_tag_=audio\"\n}"
   },
   {
@@ -74,7 +74,7 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "spaeker1-6",
-    "name": "B ËÑ¹··­Òë",
+    "name": "B æœç‹—ç¿»è¯‘",
     "url": "https://fanyi.sogou.com/reventondc/synthesis?text={{encodeURIComponent(speakText)}}&speed=0.7&lang=zh-CHS&from=translateweb&speaker=5"
   },
   {
@@ -82,7 +82,7 @@
     "enabledCookieJar": false,
     "id": -2,
     "lastUpdateTime": 1682681709765,
-    "name": "B0106 ¶È²©ÎÄ",
+    "name": "B0106 åº¦åšæ–‡",
     "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=106&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&aue=6&pit=5&_res_tag_=audio\"\n}"
   },
   {
@@ -95,7 +95,7 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "B4106 ÎÂºÍÈåÑÅ",
+    "name": "B4106 æ¸©å’Œå„’é›…",
     "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 5}}&per=4106&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=15&aue=6&pit=5&_res_tag_=audio\"\n}"
   },
   {
@@ -106,7 +106,7 @@
     "lastUpdateTime": 1682681709766,
     "loginCheckJs": "",
     "loginUrl": "",
-    "name": "B4114 °Ù¶ÈÆÀÊé",
+    "name": "B4114 ç™¾åº¦è¯„ä¹¦",
     "url": "http://tsn.baidu.com/text2audio,{\n\"method\": \"POST\",\n\"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 4) / 10 + 3}}&per=4114&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=220&vol=6&aue=6&pit=5&_res_tag_=audio\"\n}"
   },
   {
@@ -119,7 +119,7 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "B5003 ´ÅĞÔÄĞÉù¢Ú",
+    "name": "B5003 ç£æ€§ç”·å£°â‘¡",
     "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{String((speakSpeed + 5) / 10 + 4)}}&per=5003&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=220&vol=5&pit=5&_res_tag_=audio\"\n}"
   },
   {
@@ -132,7 +132,7 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "G Ë¼±Ø³Û Áé¶¯Å®Éù",
+    "name": "G æ€å¿…é©° çµåŠ¨å¥³å£°",
     "url": "https://dds.dui.ai/runtime/v1/synthesize?voiceId=madoufp_yubo&text={{java.encodeURI(java.encodeURI(speakText))}}&speed=5&volume=500&audioType=wav"
   },
   {
@@ -145,7 +145,7 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "G ÍøÒ×ÓĞµÀ",
+    "name": "G ç½‘æ˜“æœ‰é“",
     "url": "https://tts.youdao.com/fanyivoice?word={{encodeURIComponent(speakText)}}&le=cn&keyfrom=speaker-target"
   },
   {
@@ -158,7 +158,7 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "G0005 ¶ÈĞ¡½¿",
+    "name": "G0005 åº¦å°å¨‡",
     "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 4) / 10 + 3}}&per=5&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=220&vol=15&aue=6&pit=5&_res_tag_=audio\"\n}"
   },
   {
@@ -171,7 +171,7 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "G4117 ÓÅÑÅÅ®Éù",
+    "name": "G4117 ä¼˜é›…å¥³å£°",
     "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4117&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=220&vol=15&aue=6&pit=5&_res_tag_=audio\"\n}"
   },
   {
@@ -184,7 +184,7 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "G5118 ÓÅÃÀÅ®Éù",
+    "name": "G5118 ä¼˜ç¾å¥³å£°",
     "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 10) / 10 + 4}}&per=5118&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=220=&vol=15&aue=6&pit=5&_res_tag_=audio\"\n}"
   },
   {
@@ -207,7 +207,7 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "¡ô4003¡ï¶ÈåĞÒ£-´ÅĞÔ¡ô¡ª¡ª¡ª¡ª¡ª¡ª",
+    "name": "â—†4003â˜…åº¦é€é¥-ç£æ€§â—†â€”â€”â€”â€”â€”â€”",
     "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4003&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=220&vol=12&aue=6&pit=5&_res_tag_=audio\"\n}"
   },
   {
@@ -220,7 +220,7 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "¡ô4106¡ï¶È²©ÎÄ-Çé¸Ğ¡ï+",
+    "name": "â—†4106â˜…åº¦åšæ–‡-æƒ…æ„Ÿâ˜…+",
     "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4106&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=220&vol=15&aue=6&pit=5&_res_tag_=audio\"\n}"
   },
   {
@@ -233,7 +233,7 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "¡ô4114ÍÑ¿ÚĞã°¢Áú?ÆÀÊé¡ïËÙ 220",
+    "name": "â—†4114è„±å£ç§€é˜¿é¾™?è¯„ä¹¦â˜…é€Ÿ 220",
     "url": "http://tsn.baidu.com/text2audio, {\n\"method\": \"POST\",\n\"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{String((speakSpeed + 5) / 10 + 5)}}&per=4114&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=220&vol=15&pit=5&_res_tag_=audio\"\n}"
   },
   {
@@ -246,7 +246,7 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "¡ô4115¡ï¶ÈĞ¡ÏÍ-Çé¸Ğ",
+    "name": "â—†4115â˜…åº¦å°è´¤-æƒ…æ„Ÿ",
     "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4115&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=220&vol=15&aue=6&pit=5&_res_tag_=audio\"\n}"
   },
   {
@@ -259,7 +259,7 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "¡ô4121ÓÅÃÀ¡ï++",
+    "name": "â—†4121ä¼˜ç¾â˜…++",
     "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{String((speakSpeed + 5) / 10 + 4)}}&per=4121&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=220&vol=15&aue=6&pit=5&_res_tag_=audio\"\n}"
   },
   {
@@ -272,7 +272,7 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "¡ô5003¶ÈåĞÒ£-´ÅĞÔ¡ï",
+    "name": "â—†5003åº¦é€é¥-ç£æ€§â˜…",
     "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 +  5}}&per=5003&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=220&vol=15&aue=6&pit=5&_res_tag_=audio\"\n}"
   },
   {
@@ -285,7 +285,7 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "¡óË¼±Ø³ÛAI¡ï+",
+    "name": "â—‡æ€å¿…é©°AIâ˜…+",
     "url": "https://dds.dui.ai/runtime/v1/synthesize?voiceId=madoufp_wenrou&text={{java.encodeURI(java.encodeURI(speakText))}}&speed=8&volume=150&audioType=wav"
   },
   {
@@ -298,7 +298,7 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "?B4115 Çé¸ĞÄĞÉù",
+    "name": "?B4115 æƒ…æ„Ÿç”·å£°",
     "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4115&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=220&vol=15&aue=6&pit=5&_res_tag_=audio\"\n}"
   },
   {
@@ -311,7 +311,7 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "???¡ô4106¡ï¶È²©ÎÄ-Çé¸Ğ¡ïËÙ",
+    "name": "???â—†4106â˜…åº¦åšæ–‡-æƒ…æ„Ÿâ˜…é€Ÿ",
     "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 5}}&per=4106&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=12&aue=6&pit=5&_res_tag_=audio\"\n}"
   },
   {
@@ -321,7 +321,7 @@
     "header": "{\"Content-Type\":\"text/plain\",\"Format\":\"audio-24khz-96kbitrate-mono-mp3\", \"Token\":\"\"}",
     "id": 1682950333176,
     "lastUpdateTime": 1682950333187,
-    "name": "´óÉùÀÊ¶ÁÔÆÙâ1233£¨zh-CN-YunxiNeural£©",
+    "name": "å¤§å£°æœ—è¯»äº‘å…®1233ï¼ˆzh-CN-YunxiNeuralï¼‰",
     "url": "http://localhost:1233/api/ra ,{\"method\":\"POST\",\"body\":\"<speak xmlns=\\\"http://www.w3.org/2001/10/synthesis\\\" xmlns:mstts=\\\"http://www.w3.org/2001/mstts\\\" xmlns:emo=\\\"http://www.w3.org/2009/10/emotionml\\\" version=\\\"1.0\\\" xml:lang=\\\"en-US\\\"><voice name=\\\"zh-CN-YunxiNeural\\\"><prosody rate=\\\"{{(speakSpeed -10) * 2}}%\\\" pitch=\\\"+0Hz\\\">{{String(speakText).replace(/&/g, '&amp;').replace(/\\\"/g, '&quot;').replace(/'/g, '&apos;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/\\\\/g, '')}}</prosody></voice></speak>\"}"
   },
   {
@@ -331,7 +331,7 @@
     "header": "{\"Content-Type\":\"text/plain\",\"Format\":\"audio-24khz-48kbitrate-mono-mp3\", \"Token\":\"\"}",
     "id": 1680093622310,
     "lastUpdateTime": 1682681709767,
-    "name": "´óÉùÀÊ¶ÁÔÆÏª1233£¨zh-CN-YunxiNeural£©",
+    "name": "å¤§å£°æœ—è¯»äº‘æºª1233ï¼ˆzh-CN-YunxiNeuralï¼‰",
     "url": "http://localhost:1233/api/ra ,{\"method\":\"POST\",\"body\":\"<speak xmlns=\\\"http://www.w3.org/2001/10/synthesis\\\" xmlns:mstts=\\\"http://www.w3.org/2001/mstts\\\" xmlns:emo=\\\"http://www.w3.org/2009/10/emotionml\\\" version=\\\"1.0\\\" xml:lang=\\\"en-US\\\"><voice name=\\\"zh-CN-YunxiNeural\\\"><prosody rate=\\\"{{(speakSpeed -10) * 2}}%\\\" pitch=\\\"+0Hz\\\">{{String(speakText).replace(/&/g, '&amp;').replace(/\\\"/g, '&quot;').replace(/'/g, '&apos;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/\\\\/g, '')}}</prosody></voice></speak>\"}"
   },
   {
@@ -341,7 +341,7 @@
     "header": "{\"Content-Type\":\"text/plain\",\"Format\":\"audio-24khz-48kbitrate-mono-mp3\", \"Token\":\"\"}",
     "id": 1682950398127,
     "lastUpdateTime": 1682950398136,
-    "name": "´óÉùÀÊ¶ÁÏşÒÀ1233£¨zh-CN-XiaoyiNeural£©",
+    "name": "å¤§å£°æœ—è¯»æ™“ä¾1233ï¼ˆzh-CN-XiaoyiNeuralï¼‰",
     "url": "http://localhost:1233/api/ra ,{\"method\":\"POST\",\"body\":\"<speak xmlns=\\\"http://www.w3.org/2001/10/synthesis\\\" xmlns:mstts=\\\"http://www.w3.org/2001/mstts\\\" xmlns:emo=\\\"http://www.w3.org/2009/10/emotionml\\\" version=\\\"1.0\\\" xml:lang=\\\"en-US\\\"><voice name=\\\"zh-CN-XiaoyiNeural\\\"><prosody rate=\\\"{{(speakSpeed -10) * 2}}%\\\" pitch=\\\"+0Hz\\\">{{String(speakText).replace(/&/g, '&amp;').replace(/\\\"/g, '&quot;').replace(/'/g, '&apos;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/\\\\/g, '')}}</prosody></voice></speak>\"}"
   },
   {
@@ -351,7 +351,7 @@
     "header": "{\"Content-Type\":\"text/plain\",\"Format\":\"webm-24khz-16bit-mono-opus\", \"Token\":\"\"}",
     "id": 1682949906739,
     "lastUpdateTime": 1682949906753,
-    "name": "´óÉùÀÊ¶ÁÏşÏş1233£¨zh-CN-XiaoxiaoNeural£©",
+    "name": "å¤§å£°æœ—è¯»æ™“æ™“1233ï¼ˆzh-CN-XiaoxiaoNeuralï¼‰",
     "url": "http://localhost:1233/api/ra ,{\"method\":\"POST\",\"body\":\"<speak xmlns=\\\"http://www.w3.org/2001/10/synthesis\\\" xmlns:mstts=\\\"http://www.w3.org/2001/mstts\\\" xmlns:emo=\\\"http://www.w3.org/2009/10/emotionml\\\" version=\\\"1.0\\\" xml:lang=\\\"en-US\\\"><voice name=\\\"zh-CN-XiaoxiaoNeural\\\"><prosody rate=\\\"{{(speakSpeed -10) * 2}}%\\\" pitch=\\\"+0Hz\\\">{{String(speakText).replace(/&/g, '&amp;').replace(/\\\"/g, '&quot;').replace(/'/g, '&apos;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/\\\\/g, '')}}</prosody></voice></speak>\"}"
   },
   {
@@ -364,7 +364,7 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "´ÅĞÔÄĞÉù ¾«ĞŞ°æ5003£¨ÉÔÉĞ¿É£©",
+    "name": "ç£æ€§ç”·å£° ç²¾ä¿®ç‰ˆ5003ï¼ˆç¨å°šå¯ï¼‰",
     "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=5003&cuid=baidu_speech_demo&idx=1&cod=5&lan=zh&ctp=1&pdt=220=&vol=15&aue=6&pit=5&_res_tag_=audio\"\n}"
   },
   {
@@ -377,7 +377,7 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "?4114ÆÀÊé5??? -",
+    "name": "?4114è¯„ä¹¦5??? -",
     "url": "http://tsn.baidu.com/text2audio, {\n\"method\": \"POST\",\n\"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{String((speakSpeed + 5) / 10 + 5)}}&per=4114&cuid=baidu_speech_demo&idx=1&cod=5&lan=zh&ctp=1&pdt=220&vol=15&pit=-5&_res_tag_=audio\"\n}"
   }
 ]
