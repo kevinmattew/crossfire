@@ -1,5 +1,0 @@
-vmess=34.84.214.101:39705, method=utp, password=c0aa52f8-19d5-4acb-949e-5947d40a70e7, fast-open=false, udp-relay=true, tag=v2ray 日本
-vmess=35.197.162.98:34265, method=http, password=0391411a-5756-4483-ab6b-06886b9e58e5, fast-open=false, udp-relay=true, tag=v2ray澳大利亚
-vmess=34.92.97.174:2333, method=http, password=3ff08019-f0ab-455b-893c-3f2714f28e5f, fast-open=false, udp-relay=true, tag=v2ray香港
-vmess=35.236.144.17:2333, method=http, password=ed59d36a-f733-4031-ba66-766c9a537794, fast-open=false, udp-relay=true, tag=v2ray台湾
-vmess=35.236.122.244:2333, method=http, password=cdaad57a-1a5a-4ec4-9ab4-51b62b499509, fast-open=false, udp-relay=true, tag=v2ray美国
